@@ -69,7 +69,3 @@ To run this analysis:
 
 
 
-
-## Author
-
-[Entesaar Sharif]
