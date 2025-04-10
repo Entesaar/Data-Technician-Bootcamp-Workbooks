@@ -51,8 +51,6 @@ Discounts are typically provided in a range of 0-20%, with a few higher discount
 
 ## Recommendations
 
-The analysis revealed several key insights, leading to the following recommendations:
-
 - Focus on the Government segment to maintain and potentially increase profitability.
 - Investigate and leverage the observed sales trends for inventory management and marketing.
 - Allocate resources strategically to the United States market to capitalize on high sales volume.
