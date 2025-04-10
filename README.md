@@ -1,4 +1,5 @@
-# Financial Data Analysis
+# **Global Sales Analysis**
+
 
 This project analyzes a financial dataset to uncover insights, trends, and provide actionable recommendations for business improvement.
 
