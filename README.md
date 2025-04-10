@@ -65,7 +65,7 @@ To run this analysis:
 1. Clone the repository.
 2. Install the required libraries: `pandas`, `matplotlib`, `seaborn`.
 3. Place the "Financial Sample.xlsx" dataset in the project directory.
-4. Run the analysis script (e.g., `analysis.py`).
+
 
 
 
