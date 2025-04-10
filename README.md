@@ -44,7 +44,7 @@ The project includes various analyses and visualizations to answer the business 
 
 
 ## Key Insights: 
-The Government segment generated the highest total profit. Sales show a generally increasing trend over the months, with potential seasonality. 
+The Government segment generated the highest total profit. Sales show a generally increasing trend over the months, with potential seasonality.
 The United States sold the most units overall.
 Paseo and VTT were the top-selling products.
 Discounts are typically provided in a range of 0-20%, with a few higher discounts. 
